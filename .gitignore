@@ -159,6 +159,9 @@ wp-content/plugins/*table*.php
 # ignore specific themes
 wp-content/themes/twenty*
 
+# DO NOT ignore specific themes
+!wp-content/themes/twentytwentythree
+
 # ignore node dependency directories
 node_modules/
 
