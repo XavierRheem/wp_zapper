@@ -1,0 +1,29 @@
+/**
+ * All of the CSS for your admin-specific functionality should be included in this file.
+ *
+ * The file is enqueued from inc/admin/class-admin.php.
+ */
+
+.red {
+    color:#D00;
+}
+
+.blue {
+    color:#00C;
+}
+
+.green {
+    color: #0A0;
+}
+
+form#modify_usergroup table tr td {
+    padding: 0.5em 2em 1em 2em;
+}
+
+label {
+    padding: 0.25rem 2em 0.25rem 1em;
+}
+
+input, label {
+    border:0.1em solid #aaa;
+}
