@@ -7,10 +7,10 @@ namespace Zapper_NS\Includes\Core;
  *
  * This class defines all code necessary to run during the plugin's activation.
 
- * @link       https://www.nuancedesignstudio.in
+ * @link       https://www.WordPressCenter.net
  * @since      1.0.0
  *
- * @author     Karan NA Gupta
+ * @author     Jeff Sabarese
  */
 
 class Activator {

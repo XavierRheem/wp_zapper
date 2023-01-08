@@ -7,17 +7,17 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link              https://www.nuancedesignstudio.in
+ * @link              https://www.WordPressCenter.net
  * @since             1.0.0
  * @package           zapper_List_Table_ns
  *
  * @wordpress-plugin
  * Plugin Name:       Zapper List Table NS
- * Plugin URI:        https://www.nuancedesignstudio.in/
+ * Plugin URI:        https://www.WordPressCenter.net/
  * Description:       A simple plugin to demonstarate the use of WP List Tables in the Admin area of WordPress
  * Version:           1.0.0
- * Author:            Karan NA Gupta
- * Author URI:        https://www.nuancedesignstudio.in/
+ * Author:            Jeff Sabarese
+ * Author URI:        https://www.WordPressCenter.net/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       zapper-list-table-ns

@@ -5,10 +5,10 @@ namespace Zapper_NS\Includes\Core;
 /**
  * Register all actions and filters for the plugin
  *
- * @link       https://www.nuancedesignstudio.in
+ * @link       https://www.WordPressCenter.net
  * @since      1.0.0
  *
- * @author     Karan NA Gupta
+ * @author     Jeff Sabarese
  */
 
 /**

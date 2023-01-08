@@ -8,10 +8,10 @@ namespace Zapper_NS\Includes\Core;
  * Loads and defines the internationalization files for this plugin
  * so that it is ready for translation.
  *
- * @link       https://www.nuancedesignstudio.in
+ * @link       https://www.WordPressCenter.net
  * @since      1.0.0
  *
- * @author     Karan NA Gupta
+ * @author     Jeff Sabarese
  */
 class Internationalization_i18n {
 

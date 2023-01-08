@@ -9,10 +9,10 @@ use Zapper_NS\Includes\Frontend as Frontend;
  * The core plugin class.
  * Defines internationalization, admin-specific hooks, and public-facing site hooks.
  *
- * @link       https://www.nuancedesignstudio.in
+ * @link       https://www.WordPressCenter.net
  * @since      1.0.0
  *
- * @author     Karan NA Gupta
+ * @author     Jeff Sabarese
  */
 class Init {
 

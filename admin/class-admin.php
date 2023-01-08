@@ -8,10 +8,10 @@ namespace Zapper_NS\Admin;
  * Defines the plugin name, version, and two examples hooks for how to
  * enqueue the admin-specific stylesheet and JavaScript.
  *
- * @link       https://www.nuancedesignstudio.in
+ * @link       https://www.WordPressCenter.net
  * @since      1.0.0
  *
- * @author    Karan NA Gupta
+ * @author    Jeff Sabarese
  */
 class Admin {
 
