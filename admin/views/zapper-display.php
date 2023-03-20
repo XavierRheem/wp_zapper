@@ -46,11 +46,4 @@ elseif(isset($_REQUEST['action']) && ($_REQUEST['action'] == 'selected_bulk_edit
 </div>
 <?php
 
-/* echo '<pre>';
-//echo 'var_dump(get_defined_vars()): ' . var_dump(get_defined_vars());
-echo 'var_dump(_REQUEST)' . var_dump($_REQUEST);
-echo 'var_dump(_POST)' . var_dump($_POST);
-echo 'var_dump(_GET)' . var_dump($_GET); 
-echo '</pre>'; */
-
 ?>

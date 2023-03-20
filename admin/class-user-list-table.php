@@ -2,7 +2,7 @@
 
 namespace Zapper_NS\Admin;
 
-// maybe the following seems weird but was a hack to pull in the Deafult WP List Table? According to w3schools, this is not the correct use of the "use" keyword.
+ 
 use Zapper_NS\Includes\Libraries;
 
 class Zapper_List_Table_NS extends Libraries\WP_List_Table  {

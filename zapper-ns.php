@@ -5,7 +5,10 @@
  * This file is read by WordPress to generate the plugin information in the plugin
  * admin area. This file also includes all of the dependencies used by the plugin,
  * registers the activation and deactivation functions, and defines a function
- * that starts the plugin.
+ * that starts the plugin. 
+ * 
+ * If you have any questions about how to use this plugin, 
+ * please reach out to the developer using the contact information below. 
  *
  * @link              https://www.WordPressCenter.net
  * @since             1.0.0
@@ -22,6 +25,11 @@
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       zapper-list-table-ns
  * Domain Path:       /languages
+ */
+
+/**
+ * The namespce implementation is inspired by a tutorial written by Tom McFarlin avaiable at
+ * https://code.tutsplus.com/series/using-namespaces-and-autoloading-in-wordpress-plugins
  */
 
 namespace Zapper_NS;
@@ -75,6 +83,8 @@ register_deactivation_hook( __FILE__, array( NS . 'Includes\Core\Deactivator', '
  * Plugin Singleton Container
  *
  * Maintains a single copy of the plugin app object
+ * Understanding the Singleton Design Pattern:
+ * https://phptherightway.com/pages/Design-Patterns.html#singleton
  *
  * @since    1.0.0
  */
